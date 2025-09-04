@@ -69,7 +69,8 @@
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LEKKALA-BHASKAR&theme=tokyonight" />
+  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEKKALA-BHASKAR&layout=donut&size_weight=0.3&count_weight=0.7&langs_count=8&hide=Jupyter%20Notebook,SCSS,CSS&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+" />
 </p>
 
 ---
