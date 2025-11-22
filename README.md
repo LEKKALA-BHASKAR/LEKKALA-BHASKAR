@@ -48,7 +48,7 @@
 - 🏗️ Co-founder of [Weborium](https://weborium.site/) – a creative digital agency  
 - 💡 Always open to collaborations on innovative projects
 - 🎯 Focus: **MERN Stack, Cloud & System Architecture**
-- 📫 Reach me at: **lekkalabhaskar2003@gmail.com**
+- 📫 Reach me at: **bassnaidu1242@gmail.com**
 
 <br clear="both"/>
 
