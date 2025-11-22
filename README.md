@@ -41,7 +41,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🌱 Currently mastering **System Design & DevOps**  
 - ⚡ Passionate about building **scalable full-stack applications**  
@@ -144,9 +144,9 @@
 
 <br/><br/>
 
-### 😂 Random Dev Meme
+### 😂 Random Dev Joke
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&borderColor=6366F1" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 
 </div>
 
