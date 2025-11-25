@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+L+Bhaskar;Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;Co-founder+%40+Weborium+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Co-founder @ <a href="https://weborium.site/">Weborium</a></h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast </a></h3>
 
 <p align="center">
   <a href="https://portfoliobhaskar.vercel.app/" target="_blank">
