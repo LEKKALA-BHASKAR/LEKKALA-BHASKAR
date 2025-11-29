@@ -3,7 +3,7 @@
 </div>
 
 <!-- Title -->
-<h2 align="center">🚀 MERN Stack Developer | Full-Stack Engineer | Co-Founder @ Weborium</h2>
+<h2 align="center">🚀 MERN Stack Developer | Full-Stack Engineer </h2>
 
 <!-- Typing intro -->
 <div align="center">
