@@ -45,7 +45,6 @@
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🔥 Full-Stack Developer specializing in **MERN Stack**
-- 🚀 Co-Founder at **Weborium**
 - 💼 Former MERN Stack Intern @ **DavRabbit**, **SmartBridge**, **IISPPR**
 - 🧠 Strong in **REST APIs, Authentication, UI/UX, Problem Solving**
 - 🤝 Experienced in building **client projects & production-ready web apps**
