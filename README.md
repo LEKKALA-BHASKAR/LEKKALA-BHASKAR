@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=L%20Bhaskar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist&descSize=18&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Bhaskar%20Lekkala&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Software%20Engineering%20Intern&descSize=16&descAlignY=58" />
 </div>
 
 <!-- Animated Title -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=👋+Welcome+to+my+GitHub+Profile!;💻+Building+Modern+Web+Applications;⚡+Transforming+Ideas+into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=👋+Welcome+to+my+GitHub+Profile!;💻+Building+Scalable+MERN+Applications;🚀+Turning+Ideas+into+Production-Ready+Code" />
 </div>
 
 <br/>
@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/LEKKALA-BHASKAR" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:bassnaidu1242@gmail.com" target="_blank">
+  <a href="mailto:bhaskar.lekkala.18@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://wa.me/918328142226" target="_blank">
@@ -46,33 +46,105 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```javascript
 const bhaskar = {
+    name: "Lekkala Bhaskar",
     role: "Full-Stack Developer",
     specialization: "MERN Stack",
-    location: "India 🇮🇳",
-    currentFocus: "Building Scalable Web Apps",
+    location: "Andhra Pradesh, India 🇮🇳",
+    education: "B.Tech CSE @ AITS Tirupati (2022–2026)",
+    currentRole: "Software Eng. Intern @ Bluecloud Softtech",
+    cgpa: 7.94,
+    coFounded: "Freelance Web Development Agency",
     funFact: "Coffee + Code = Magic ☕✨"
 };
 ```
 
 <br/>
 
-🔥 **Full-Stack Developer** specializing in **MERN Stack**
+🔥 **Full-Stack Developer** specializing in **MERN Stack** with production experience
 
-💼 Former MERN Stack Intern @ **DavRabbit**, **SmartBridge**, **IISPPR**
+💼 **Software Engineering Intern** @ **Bluecloud Softtech** — working on Hyderabad City Police Social Media Monitoring
 
-🧠 Strong in **REST APIs, Authentication, UI/UX, Problem Solving**
+🏢 **Co-founded** a freelance web development agency, leading client projects end-to-end
 
-🤝 Experienced in building **client projects & production-ready web apps**
+🧠 Strong in **REST APIs, JWT Auth, Real-time Data, S3 Storage & Problem Solving**
 
-🎯 Focused on **clean architecture, scalability & modern development**
+🎯 Focused on **clean architecture, scalability & high-performance web apps**
 
-🌱 Currently exploring **Next.js** and **TypeScript**
+🌱 Currently exploring **Next.js**, **TypeScript**, and **Cloud Infrastructure**
 
 <br clear="both"/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+## 🎓 Education
+
+<div align="center">
+
+| 🏫 Institution | 📚 Degree | 📅 Year | 🏆 CGPA |
+|:---|:---|:---:|:---:|
+| **Annamacharya Institute of Technology & Sciences**, Tirupati | B.Tech — Computer Science & Engineering | 2022 – 2026 | **7.94** |
+
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+## 💼 Work Experience
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=4+Internships+%7C+Real-World+Production+Experience" />
+</div>
+
+<br/>
+
+### 🟢 Bluecloud Softtech Solutions Ltd — *Software Engineering Intern (On-site)*
+**`Dec 2025 – Present`** &nbsp;|&nbsp; Hyderabad, India
+
+- 🚔 Working on the **Hyderabad City Police Social Media Monitoring Project**
+- 📊 Developing a grievance & social media tracking dashboard (X/Twitter, Facebook, Instagram)
+- ⚙️ Implementing **REST APIs**, data indexing & real-time monitoring features using **MERN stack**
+- ☁️ Integrated **AWS S3** storage for media handling & optimized database queries for performance
+- 🤝 Collaborating with cross-functional teams on escalation workflows & reporting systems
+
+---
+
+### 🔵 DavRabbit IT Solutions — *MERN Intern (On-site)*
+**`June 2025 – July 2025`**
+
+- 🏢 Completed offline internship focused on the **MERN stack**
+- 🔐 Built **RESTful APIs** and implemented **authentication & authorization** features
+- 🤝 Gained hands-on experience in full-stack development and team collaboration
+
+---
+
+### 🟣 SmartBridge Educational Services Pvt. Ltd. — *MERN Intern (Remote)*
+**`June 2025 – Aug 2025`** &nbsp;|&nbsp; *(Certified — in collaboration with APSCHE & JNTUA)*
+
+- 📚 Developed **Booknest** — a full-stack book management app with **Google Books API** integration
+- 🔑 Implemented **JWT authentication**, admin CRUD operations & responsive UI with React + Tailwind CSS
+- 🎓 Certified internship with academic partnership recognition
+
+---
+
+### 🟠 IISPPR — *Full Stack Developer Intern*
+**`Dec 2024 – Feb 2025`**
+
+- 🎨 Designed & optimized UI components using **React.js** and **Tailwind CSS**
+- 🛠️ Built backend routes and APIs using **Node.js** and **Express.js**
+- 📱 Ensured **responsive design** and performance optimization across devices
+
+<br/>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -98,14 +170,24 @@ const bhaskar = {
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
 </p>
 
-### 🗄️ Database
+### 🗄️ Database & Cloud
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3"/>
+</p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </p>
 
 ### 🛠️ Tools & DevOps
@@ -116,10 +198,90 @@ const bhaskar = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
 </p>
 
 </div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📅 Attendance Tracker
+**MERN Stack · JWT · Tailwind CSS · Vercel/Render**
+
+A full-stack attendance management system built for B.Tech students. Features JWT authentication, calendar-based attendance marking, and CI/CD deployment pipelines.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LEKKALA-BHASKAR)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Booknest
+**MERN Stack · Google Books API · JWT**
+
+A full-stack book discovery & management app with Google Books API integration, secure user authentication, admin CRUD operations, and user favorites.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LEKKALA-BHASKAR)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Quiz Web App
+**React.js · JavaScript · Vercel**
+
+An interactive quiz platform with real-time scoring, dynamic question rendering, and a smooth user experience. Deployed on Vercel.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LEKKALA-BHASKAR)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio Website
+**React.js · Tailwind CSS · Vercel**
+
+A responsive single-page portfolio showcasing technical skills and projects. Built with reusable React components and deployed on Vercel.
+
+[![Live](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfoliobhaskar.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🥇 Achievement | 📌 Event |
+|:---|:---|
+| 🥇 **1st Place** | College-level **Java Programming Contest** |
+| 🥇 **1st Place** | College-level **Python Programming Contest** |
+| 🥈 **Runner-up** *(Team)* | **Blind-Code Event** @ College Fest |
+
+</div>
+
+<br/>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -196,8 +358,8 @@ const bhaskar = {
 
 ### 📫 How to Reach Me
 
-<a href="mailto:bassnaidu1242@gmail.com">
-  <img src="https://img.shields.io/badge/📧_bassnaidu1242@gmail.com-EA4335?style=for-the-badge" alt="Email"/>
+<a href="mailto:bhaskar.lekkala.18@gmail.com">
+  <img src="https://img.shields.io/badge/📧_bhaskar.lekkala.18@gmail.com-EA4335?style=for-the-badge" alt="Email"/>
 </a>
 <a href="tel:+918328142226">
   <img src="https://img.shields.io/badge/📞_+91_8328142226-25D366?style=for-the-badge" alt="Phone"/>
@@ -207,7 +369,7 @@ const bhaskar = {
 
 ### 💬 Quote I Live By
 
-> *"First, solve the problem. Then, write the code."* - John Johnson
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 <br/>
 
