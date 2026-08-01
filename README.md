@@ -225,7 +225,7 @@ Single-page portfolio showcasing projects and skills. Built with reusable React 
 
 | Institution | Degree | Period | CGPA |
 |:---|:---|:---:|:---:|
-| **Annamacharya Institute of Technology & Sciences**, Tirupati | B.Tech — Computer Science & Engineering | 2022 – 2026 | **7.94** |
+| **Annamacharya Institute of Technology & Sciences**, Tirupati | B.Tech — Computer Science & Engineering | 2022 – 2026 | **8.04** |
 
 ---
 
