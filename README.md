@@ -1,150 +1,314 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bhaskar%20Lekkala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlign=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,40:312e81,75:4f46e5,100:7c3aed&text=Bhaskar%20Lekkala&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<h2>
+Software Engineer • MERN Stack Developer • AI Enthusiast
+</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;MERN+Stack+Developer;Backend+Engineer;AI+%2F+LLM+Application+Developer;Building+Scalable+Applications" />
 
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <a href="https://portfoliobhaskar.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230f0c29?style=for-the-badge&logo=vercel&logoColor=a78bfa" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/bhaskar-lekkala" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:bhaskar.lekkala.18@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/LEKKALA-BHASKAR" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/918328142226" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+
+<a href="https://portfoliobhaskar.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bhaskar-lekkala">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bhaskar.lekkala.18@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/LEKKALA-BHASKAR">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://wa.me/918328142226">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </div>
 
-<br/>
+---
 
-## Bhaskar Lekkala — Software Engineer
+# 👋 About Me
 
-bhaskar.lekkala.18@gmail.com · +91 83281 42226  
-[linkedin.com/in/bhaskar-lekkala](https://www.linkedin.com/in/bhaskar-lekkala) · [github.com/LEKKALA-BHASKAR](https://github.com/LEKKALA-BHASKAR)
+I'm **Bhaskar Lekkala**, a **Software Engineer** passionate about building scalable backend systems, modern web applications, and AI-powered products.
+
+I enjoy solving complex engineering problems using the **MERN Stack**, designing REST APIs, optimizing databases, and integrating Large Language Models into production applications.
+
+Currently working on:
+
+- 🚀 Production MERN Applications
+- 🤖 AI & LLM Integrations
+- 📈 Scalable Backend Systems
+- ☁ Cloud Deployments
+- ⚡ Performance Optimization
 
 ---
 
-## Professional Summary
+# 💼 Professional Experience
 
-Software engineer with hands-on production experience building scalable MERN-stack applications, REST APIs, real-time dashboards, and role-based authentication systems. Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, and Database Management Systems. Working knowledge of AI/ML fundamentals — RAG pipelines, LLM integration, and vector search. Delivered multiple live, production-deployed products across ed-tech, law enforcement, and inventory management domains.
+## Bluecloud Softtech Solutions Ltd
 
----
+### Software Engineer I
+**July 2026 – Present**
 
-## Technical Skills
+Previously:
 
-- Languages: JavaScript, TypeScript, Python, Java
-- Core CS: Data Structures & Algorithms, Object-Oriented Programming, DBMS
-- Frontend: React.js, Tailwind CSS, HTML5, CSS3
-- Backend: Node.js, Express.js, REST APIs, JWT Authentication, Nodemailer/SMTP
-- Databases: MongoDB (indexing & aggregation), Mongoose ODM, MySQL
-- AI / ML: RAG pipelines, LLM API integration (OpenAI / Anthropic), prompt engineering, YOLO, OCR
-- Cloud / DevOps: AWS, AWS S3, Contabo & Hostinger VPS, Vercel, Render, Docker (basic), Linux, GitHub Actions CI/CD
-- Testing / Tools: Jest, Postman, Git, GitHub
+Software Engineering Intern
 
----
+**Aug 2025 – Jun 2026**
 
-## Professional Experience
+### Highlights
 
-### Bluecloud Softtech Solutions Ltd
-**Software Engineer I** · Jul 2026 – Present  
-**Software Engineering Intern** · Aug 2025 – Jun 2026  
-Tech: React.js, Node.js, Express.js, MongoDB, AWS S3
-
-- Led development of BLURA SAGA — a real-time social-media monitoring dashboard for Hyderabad City Police aggregating live feeds from X, Facebook, and Instagram with sentiment tagging and keyword-based escalation workflows.
-- Reduced manual triage time by ~85% through automated alert pipelines; optimized MongoDB aggregation queries with compound indexing, cutting average query response time by 40% under peak load.
-- Built BLURA Track (inventory management) with role-based access control, audit logs, and real-time stock alert notifications via Nodemailer. Integrated AWS S3 for scalable media storage; deployed with GitHub Actions CI/CD.
-
-### DavRabbit IT Solutions
-**MERN Stack Intern** · Jun 2025 – Jul 2025  
-Tech: React.js, Node.js, Express.js, MongoDB, Nodemailer
-
-- Built EduGenie — multi-role school management platform with AI-assisted lesson recommendations and adaptive quiz generation using LLM APIs.
-- Implemented Clerk OAuth 2.0 and magic-link authentication, reducing custom auth boilerplate by ~60%; architected role-scoped REST API sets with JWT middleware and route-level access control.
-- Integrated a RAG-based Q&A feature using vector search on course content; wrote unit and integration tests with Jest for critical flows.
-
-### SmartBridge Educational Services
-**MERN Stack Intern (Remote)** · Jun 2025 – Aug 2025  
-(APSCHE × JNTUA Certified)
-
-- Developed Booknest — full-stack book discovery and management application with Google Books API integration, JWT authentication, admin CRUD, and responsive Tailwind UI.
-
-### IISPPR
-**Full-Stack Developer Intern** · Dec 2024 – Feb 2025
-
-- Built responsive UI components in React + Tailwind and backend routes in Node.js/Express; focused on performance and cross-device compatibility.
+- Led development of **BLURA SAGA**, a real-time social media intelligence platform for Hyderabad City Police.
+- Built automated sentiment analysis and keyword escalation pipelines.
+- Reduced manual monitoring effort by **85%**.
+- Optimized MongoDB aggregation queries improving performance by **40%**.
+- Developed **BLURA Track**, an enterprise inventory management platform.
+- Implemented AWS S3 integration.
+- Designed Role-Based Access Control.
+- Integrated SMTP notifications.
+- Automated deployments using GitHub Actions.
 
 ---
 
-## Selected Projects (Production / Live)
+## DavRabbit IT Solutions
 
-### BLURA SAGA — Social-Media Monitoring Dashboard
-React.js · Node.js · MongoDB · AWS S3
+### MERN Stack Intern
 
-Real-time dashboard for Hyderabad City Police with WebSocket live feeds, sentiment tagging, keyword filtering, and automated escalation alerts. Optimized MongoDB queries with compound indexes for a 40% speed improvement; CI/CD via GitHub Actions.
+June 2025 – July 2025
 
-### BLURA Track — Inventory Management System
-MERN · JWT · RBAC · Nodemailer
+Built:
 
-End-to-end inventory system with multi-role access (Admin, Manager, Staff), real-time stock tracking, low-stock alerts via SMTP, and a full audit trail. Designed aggregation pipelines for stock analytics and monthly reports.
-
-### EduGenie — AI-Powered Education Platform
-MERN · TypeScript · LLM API · RAG · Vercel · Render
-
-Adaptive quiz generation and a RAG-based Q&A module: students query course content in natural language while the LLM retrieves context from vectorized lesson chunks. Role-scoped dashboards and automated SMTP notifications.
-
-(See more projects on my GitHub profile)
+- EduGenie
+- AI Lesson Recommendation
+- Adaptive Quiz Generator
+- RAG Question Answering
+- Clerk Authentication
+- REST APIs
+- Jest Testing
 
 ---
 
-## Personal Projects
+## SmartBridge Educational Services
 
-- Job Portal — Verified multi-role hiring platform (MERN, LinkedIn OAuth, Nodemailer, JWT, RBAC)
-- Person Attribute Detection — Real-time video analytics using YOLO, ByteTrack, Re-ID
-- Telugu & English OCR Pipeline — Surya OCR + Tesseract, preprocessing & language routing
-- Booknest — Book discovery & management (MERN, Google Books API)
-- Intern Management System — Internship lifecycle tracker (MERN, TypeScript, JWT)
-- Attendance Management System — Role-based attendance platform (MERN, JWT, RBAC)
+MERN Stack Intern
 
----
+Developed Booknest with
 
-## Education
-
-B.Tech, Computer Science & Engineering — Annamacharya Institute of Technology & Sciences, Tirupati  
-CGPA: 8.04/10  · 2022 – 2026
+- Google Books API
+- JWT Authentication
+- Admin Dashboard
+- Responsive UI
 
 ---
 
-## Achievements & Certifications
+## IISPPR
 
-- 1st place — College-level Java & Python programming contests (200+ participants each)
-- Runner-up (team) — Blind Code event, College Tech Fest
-- Certified MERN Stack Developer — SmartBridge Educational Services × APSCHE & JNTUA (2025)
-- Certified Problem Solver of the Year — Annamacharya Institute of Technology & Sciences (2024, 2025)
-- EdX Python Programming — Topper certification; NPTEL Python Programming — 89%
+Full Stack Developer Intern
+
+- React
+- Node
+- Express
+- Tailwind CSS
 
 ---
 
-## Let's Connect
+# 🚀 Featured Projects
 
-I'm open to full-stack engineering roles, backend internships, and freelance collaborations. Reach out:
+## 🔥 BLURA SAGA
 
-- Email: [bhaskar.lekkala.18@gmail.com](mailto:bhaskar.lekkala.18@gmail.com)
-- Phone / WhatsApp: [+91 83281 42226](https://wa.me/918328142226)
-- Portfolio: [portfoliobhaskar.vercel.app](https://portfoliobhaskar.vercel.app/)
+Real-Time Social Media Monitoring Platform
+
+### Tech
+
+React • Node • MongoDB • AWS S3 • WebSockets
+
+Features
+
+- Live Monitoring
+- AI Sentiment Analysis
+- Keyword Alerts
+- Escalation Workflows
+- High Performance Aggregation
+- GitHub Actions CI/CD
+
+---
+
+## 📦 BLURA Track
+
+Enterprise Inventory Management
+
+Features
+
+- RBAC
+- Inventory Analytics
+- Audit Logs
+- SMTP Notifications
+- Monthly Reports
+- Dashboard
+
+---
+
+## 🤖 EduGenie
+
+AI Powered Learning Platform
+
+Features
+
+- LLM Integration
+- RAG Pipeline
+- Adaptive Quiz Generator
+- Vector Search
+- Teacher Dashboard
+- Student Dashboard
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+## AI / ML
+
+- RAG
+- LLM APIs
+- Prompt Engineering
+- YOLO
+- OCR
+- Vector Search
+
+---
+
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vercel"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LEKKALA-BHASKAR&label=Profile+Views&color=a78bfa&style=flat-square" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LEKKALA-BHASKAR&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=LEKKALA-BHASKAR&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEKKALA-BHASKAR&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+🥇 Winner — Java Programming Contest (200+ Participants)
+
+🥇 Winner — Python Programming Contest (200+ Participants)
+
+🥈 Runner-up — Blind Code Competition
+
+🏅 Certified MERN Stack Developer
+
+🏅 Problem Solver of the Year
+
+🏅 NPTEL Python Programming (89%)
+
+🏅 EdX Python Top Performer
+
+---
+
+# 🎓 Education
+
+**Bachelor of Technology**
+
+Computer Science & Engineering
+
+Annamacharya Institute of Technology & Sciences
+
+CGPA **8.04 / 10**
+
+2022 – 2026
+
+---
+
+# 📫 Connect with Me
+
+📧 **Email**
+
+**bhaskar.lekkala.18@gmail.com**
+
+🌐 **Portfolio**
+
+https://portfoliobhaskar.vercel.app
+
+💼 **LinkedIn**
+
+linkedin.com/in/bhaskar-lekkala
+
+📱 **WhatsApp**
+
++91 83281 42226
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LEKKALA-BHASKAR&theme=tokyonight&no-frame=true&column=7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=LEKKALA-BHASKAR&label=Profile+Views&color=8B5CF6&style=for-the-badge"/>
+
+</div>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building scalable software that makes a real-world impact."*
+
 </div>
